@@ -1,0 +1,918 @@
+219790081904957
+lsf-kicad-lib
+12BH022-GR
+https://gr.mouser.com/datasheet/2/209/EaglePlasticDevices_7.17.2017.EPD-200984-1171085.pdf
+Battery Holder
+0
+3
+2
+lsf-kicad-lib
+ADT7420
+https://www.analog.com/media/en/technical-documentation/data-sheets/adt7420.pdf
+LFCSP-16
+0
+17
+17
+lsf-kicad-lib
+ATB2012
+https://product.tdk.com/info/en/documents/data_sheet/rf_balun_atb2012_en.pdf
+Balun Transformer
+0
+4
+4
+lsf-kicad-lib
+Alinx_ZYNQ-7000_SOM_XC7Z020
+Xilinx ZYNQ-7000 SOM XC7Z020 FPGA Core Board Industrial Grade Module
+FPGA Module ZYNQ
+0
+480
+240
+lsf-kicad-lib
+Arduino_Pro_Mini_328
+Arduino Pro-Mini328P
+Atmega328P
+0
+28
+28
+lsf-kicad-lib
+BGA-96_8.0x14.0mm_Layout2x3x16_P0.8mm
+BGA-96, http://www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf
+BGA-96
+0
+96
+96
+lsf-kicad-lib
+BGA-153_13.0mmx11.5mm_P0.5mm
+BGA-153
+BGA-153
+0
+153
+153
+lsf-kicad-lib
+BMI-S-x06
+http://partkeepr.hsgr.awmn/api/part_attachments/259/getFile
+RF Shield
+0
+24
+1
+lsf-kicad-lib
+Bosch_LGA-20_4.5x3.0mm_P0.5mm
+https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmx055-ds000.pdf
+IMU 9DoF
+0
+20
+20
+lsf-kicad-lib
+CONMCX001
+https://linxtechnologies.com/wp/wp-content/uploads/conmcx001.pdf
+MCX Female Through-hole Vertical
+0
+5
+2
+lsf-kicad-lib
+CONMMCX002
+https://linxtechnologies.com/wp/wp-content/uploads/conmmcx002-smd.pdf
+MMCX SMD Horizontal
+0
+5
+2
+lsf-kicad-lib
+CP0805-A
+http://datasheets.avx.com/cp0805smd.pdf
+RF filter
+0
+4
+4
+lsf-kicad-lib
+CWDFN4-7mmx7mm-4.5P
+CWDFN4 7x7, 4.5P; https://www.onsemi.com/pub/Collateral/512AG.PDF
+CWDFN
+0
+4
+4
+lsf-kicad-lib
+Conn_SMA_Molex_73251-1150
+50 Ohms, SMA Jack Receptacle, Edge Mount, .25µm Gold (Au) Plating, 80 Pieces Per Tray
+SMA RF Connector
+0
+5
+2
+lsf-kicad-lib
+D2F-L
+Omron  D2F-L Ultra Subminiature Basic Switch
+subminiature  switch
+0
+3
+3
+lsf-kicad-lib
+D2F-L2-A
+Ultra Subminiature Basic Switch; https://omronfs.omron.com/en_US/ecb/products/pdf/en-d2f.pdf
+switch spdt
+0
+3
+3
+lsf-kicad-lib
+D2F-L2-A1
+Ultra Subminiature Basic Switch; https://omronfs.omron.com/en_US/ecb/products/pdf/en-d2f.pdf
+switch SPDT
+0
+3
+3
+lsf-kicad-lib
+D2F-L30-A1
+Ultra Subminiature Basic Switch; https://omronfs.omron.com/en_US/ecb/products/pdf/en-d2f.pdf
+switch SPDT
+0
+3
+3
+lsf-kicad-lib
+DART-4460
+https://www.variscite.com/wp-content/uploads/2017/12/DART-4460-DS_107.pdf
+DART
+0
+184
+180
+lsf-kicad-lib
+DBP433TA30
+Bandpass Filter, Fc: 433MHz BW: 10MHz, 50 Ohm, 10x7.5x3.7mm
+Bandpass Filter
+0
+6
+6
+lsf-kicad-lib
+DCC6
+https://abracon.com/Filters/SAW%20FILTERS/AFS434S3.pdf
+SAW Filter
+0
+6
+6
+lsf-kicad-lib
+DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.6mm
+DFN, 8 Pin (https://www.qorvo.com/products/d/da006538#page=9), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+11
+9
+lsf-kicad-lib
+DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.6mm_ThermalVias
+DFN, 8 Pin (https://www.qorvo.com/products/d/da006538#page=9), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+15
+9
+lsf-kicad-lib
+DO-222AA
+DO-222AA
+DO-222AA
+0
+3
+2
+lsf-kicad-lib
+EIA_0805
+6-Pin package with 2.0x1.25mm
+rf filter diplexer
+0
+6
+6
+lsf-kicad-lib
+ESE16J001
+1VR Detector Switches;https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/826
+switch
+0
+4
+4
+lsf-kicad-lib
+EXBD
+https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000COL4.pdf
+Panasonic Resistor Network
+0
+10
+10
+lsf-kicad-lib
+FR933-1
+https://www.minicircuits.com/case_style/FR933-1.pdf
+Mini-Circuits
+0
+6
+6
+lsf-kicad-lib
+GE0805C-2
+https://www.minicircuits.com/case_style/GE0805C-2.pdf
+RF Filter
+0
+8
+8
+lsf-kicad-lib
+HTSSOP-14
+Heat Sink Thin Shrink Small Outline Package
+HTSSOP Heat Sink Thin Shrink Small Outline Package
+0
+15
+15
+lsf-kicad-lib
+Hirose_DF11-8DP-2DS_2x4_P2.00mm_Horizontal
+https://www.hirose.com/product/en/download_file/key_name/DF11-6DP-2DS%2824%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430534424&is_series=
+Header
+0
+8
+8
+lsf-kicad-lib
+Hirose_DF11-10DP-2DS_2x5_P2.00mm_Horizontal
+https://www.hirose.com/product/en/download_file/key_name/DF11-6DP-2DS%2824%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430534424&is_series=
+Header
+0
+10
+10
+lsf-kicad-lib
+IDT_NEG-12-1EP_2x2mm_P0.5mm_EP1.1x1.1mm_ThermalVias
+VFQFP-N 2.0 X 2.0 X 0.55 MM, 12 pin, https://www.idt.com/document/psc/neg12-package-outline-20-x-20-mm-body-epad-11-x-11-mm-050-mm-pitch-qfn
+NEG-12 VFQFP-N
+0
+18
+13
+lsf-kicad-lib
+IHCL-4040
+https://www.vishay.com/docs/34359/ihcl-4040dz-5a22.pdf
+SMT Inductor
+0
+4
+4
+lsf-kicad-lib
+Infineon-PQFN-56_EP_7x7_P0.4mm
+PQFN 56 leads, 7x7mm (https://www.infineon.com/dgdl/Infineon-IRPS5401M-DataSheet-v02_04-EN.pdf?fileId=5546d4625cc9456a015cd69d402139db)
+PQFN 56 7x7mm
+0
+103
+47
+lsf-kicad-lib
+KEYSTONE-1502-2
+Dual Turret terminal Keystone Electronics 1502-2
+Dual Turret terminal Keystone
+0
+1
+1
+lsf-kicad-lib
+KEYSTONE-3030
+https://www.keyelco.com/product-pdf.cfm?p=3952
+battery holder
+0
+3
+2
+lsf-kicad-lib
+KEYSTONE-7698
+METRIC PC SCREW TERMINAL
+Screw Terminal Vertical
+0
+4
+1
+lsf-kicad-lib
+KEYSTONE_3098
+https://www.keyelco.com/product-pdf.cfm?p=769
+Battery holder
+0
+3
+2
+lsf-kicad-lib
+KT1612
+https://global.kyocera.com/prdct/electro/product/pdf/kt1612_e.pdf
+TCXO VCTCXO
+0
+4
+4
+lsf-kicad-lib
+LOGO-Built_in_HSGR
+Built in hackerspace.gr logo
+LOGO hackerspace HSGR
+0
+0
+0
+lsf-kicad-lib
+L_Abracon_ASPI-0530HI
+smd shielded power inductor https://abracon.com/Magnetics/power/ASPI-0530HI.pdf
+inductor abracon smd shielded
+0
+2
+2
+lsf-kicad-lib
+L_Bourns_SDR1307
+Bourns SDR1307
+Bourns SDR1307
+0
+2
+2
+lsf-kicad-lib
+L_Bourns_SRP1040
+Bourns SRP1270
+Bourns SRP1270 L
+0
+2
+2
+lsf-kicad-lib
+L_Coilcraft_SER1590
+L_Coilcraft_SER1590 https://www.coilcraft.com/getmedia/81a5b014-f8b3-44cc-abe2-de459d23320f/ser1590.pdf
+L_Coilcraft SER1590
+0
+3
+3
+lsf-kicad-lib
+L_Coilcraft_XAL7070_7.2x7.5mm
+Coilcraft XAL7070 series, https://www.coilcraft.com/getmedia/1ba55433-bcc8-4838-9b21-382f497e12e0/xal7070.pdf
+L Coilcraft XAL7070
+0
+2
+2
+lsf-kicad-lib
+L_Sumida_CR75
+http://products.sumida.com/products/pdf/CR75.pdf
+Inductor SMD
+0
+2
+2
+lsf-kicad-lib
+MABA-011094
+https://gr.mouser.com/datasheet/2/249/MABA-011094-1489203.pdf
+RF Transformer
+0
+5
+5
+lsf-kicad-lib
+MAXIM_SC-70
+https://pdfserv.maximintegrated.com/land_patterns/90-0189.PDF
+SC-70
+0
+6
+6
+lsf-kicad-lib
+MLP-8
+http://www.not2fast.com/electronics/component_docs/dims/8mlp_dim.pdf
+Micro Lead Package
+0
+11
+9
+lsf-kicad-lib
+MMZ09332B
+UD Package; 12-Lead Plastic QFN (3mm x 3mm); (see Linear Technology QFN_12_ 05-08-1855.pdf)
+QFN 0.5
+0
+21
+13
+lsf-kicad-lib
+MQ-7
+https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-7.pdf
+Sensor CO
+0
+6
+4
+lsf-kicad-lib
+MQ-7B
+https://www.pololu.com/file/0J313/MQ7.pdf
+Sensor CO
+0
+6
+4
+lsf-kicad-lib
+MQ-131
+https://www.pololu.com/file/0J313/MQ7.pdf
+O3 Ozone sensor
+0
+6
+4
+lsf-kicad-lib
+MS-156C3
+Subminiature Coaxial Switch 1.35mm High, DC to 11GHz
+Switch Coaxial RF
+0
+4
+3
+lsf-kicad-lib
+Maxim_T833-2_TDFN-8-1EP_3x3mm_P0.65mm_EP1.5x2.3mm
+Maxim T833-2 TDFN, 8 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+Maxim TDFN NoLead
+0
+13
+9
+lsf-kicad-lib
+MicroFC_60035_SMT
+https://gr.mouser.com/datasheet/2/308/MICROC-SERIES-D-1489614.pdf
+SiMC
+0
+4
+4
+lsf-kicad-lib
+MillMax_8290-22-002-20-001101_1x02_P2.54mm_Horizontal
+Through hole angled spring-loaded pin header, 1x02, 2.54mm pitch, single row; https://www.mill-max.com/products/socket/829-xx-xxx-20-001101
+spring-loaded header
+0
+2
+2
+lsf-kicad-lib
+MountingHole_3.2mm_M3_PC104
+Mounting Hole 3.2mm, M3, ISO14580
+mounting hole 3.2mm m3 iso14580
+0
+1
+1
+lsf-kicad-lib
+NEG-12
+https://www.idt.com/package/neg12
+NEG-12 VFQFP-N
+0
+16
+13
+lsf-kicad-lib
+NP-BX1
+NP_BX1 Battery
+Battery
+0
+0
+0
+lsf-kicad-lib
+NXP_HVSON-8
+https://www.nxp.com/docs/en/data-sheet/BGA6130.pdf
+HVSON
+0
+10
+9
+lsf-kicad-lib
+N_Type_Bulkhead_2-Hole_Flange
+N-Type bulkhead connector 2-Hole Flange,  https://www.amphenolrf.com/172323.html
+NType female chassis connector bulkhead
+0
+3
+2
+lsf-kicad-lib
+N_Type_Bulkhead_4-Hole_Flange
+N-Type bulkhead connector 4-Hole Flange,  https://www.amphenolrf.com/082-97-rfx.html
+NType female chassis connector bulkhead 4Hole
+0
+5
+2
+lsf-kicad-lib
+Oscillator_SMD_ECS_TXO-2016-xx-xxx-4Pin_2x1.6mm
+ 2.0 x 1.6 x 0.8 mm ceramic package
+TCXO 4-pin
+0
+4
+4
+lsf-kicad-lib
+Oscillator_SMD_EST_TXO_2520_4PIN_2X2.5mm
+The sub miniature  SMD HCMOS TCXO
+TCXO 4-pin
+0
+4
+4
+lsf-kicad-lib
+POWERDI5
+https://www.diodes.com/assets/Package-Files/PowerDI5.pdf
+DIODE
+0
+3
+2
+lsf-kicad-lib
+PQ9
+-
+PQ9 PQ9ISH
+0
+9
+9
+lsf-kicad-lib
+Panasonic_AXK_AXK5S20347YG_2x20_P0.50mm_Socket
+P5KS 20 pin socket; https://datasheet.octopart.com/AXK5S20347YG-Panasonic-datasheet-24572533.pdf
+P5KS Socket
+0
+40
+20
+lsf-kicad-lib
+Panasonic_AXK_AXK6A2337YG_2x60_P0.50mm_Vertical
+AXK(5(S)/6(S))series 120 pin header
+AXK(5(S)/6(S)) header
+0
+242
+120
+lsf-kicad-lib
+Panasonic_AXK_AXK6S20447YG_2x20_P0.50mm_Header
+P5KS 20 pin Header
+P5KS header
+0
+40
+20
+lsf-kicad-lib
+Pololu_Dual_MC33926
+Pin socket for pololu dual MC33926
+Pin Socket
+0
+27
+27
+lsf-kicad-lib
+QFN-12-1EP_2x2mm_P0.5mm_EP0.76x0.76mm
+QFN 12 pin for the SKYA21003
+QFN no lead
+0
+13
+13
+lsf-kicad-lib
+QFN-12-1EP_4x4mm_P0.8mm_EP2.1x2.1mm
+QFN package for the EMC1702
+QFN no lead
+0
+13
+13
+lsf-kicad-lib
+QFN-14-1EP_1.60x1.60mm_P0.40mm_EP0.74x0.74mm
+QFN, 14 Pin (https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/701-800/SKY13421_486LF_201655E.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+19
+15
+lsf-kicad-lib
+QFN-44_10x10_Pitch0.8mm_LGA-69
+VENUS838FLPx Footprint
+QFN-44 LGA-69
+0
+69
+69
+lsf-kicad-lib
+QUBIK-Logo-6x6
+Logo for QUBIK mission 6mm x6mm
+LOGO QUBIK
+0
+0
+0
+lsf-kicad-lib
+QUBIK-Logo-10x10
+Logo for QUBIC mission 10mm x10mm
+LOGO QUBIC
+0
+0
+0
+lsf-kicad-lib
+QUBIK-Logo-13x13
+Logo for QUBIC mission 10mm x10mm
+LOGO QUBIK
+0
+0
+0
+lsf-kicad-lib
+ROHM_SSOP-5
+5-Pin SSOP Package from ROHM
+ROHM SSOP
+0
+5
+5
+lsf-kicad-lib
+SATA-3M-5607-5102-SH
+Through hole SATA connector vertical, 3M
+3M SATA
+0
+7
+7
+lsf-kicad-lib
+SC-70
+https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-sc-70/SOT_6_05-08-1638.pdf
+SC-70
+0
+6
+6
+lsf-kicad-lib
+SKY13351-378LF
+http://www.skyworksinc.com/uploads/documents/SKY13351_378LF_201132I.pdf
+378LF
+0
+10
+6
+lsf-kicad-lib
+SKY13411-374LF
+http://www.skyworksinc.com/uploads/documents/201665B.pdf
+374LF
+0
+12
+6
+lsf-kicad-lib
+SM141K04LV
+IXOLAR High Efficiency SolarMD, http://ixapps.ixys.com/DataSheet/SM141K04LV.pdf
+PV solar panel
+0
+2
+2
+lsf-kicad-lib
+SM3838-8
+8-Terminal Ceramic Surface-Mount Case
+SAW Filter
+0
+8
+8
+lsf-kicad-lib
+SMC_Amphenol_152119_Vertical
+https://www.amphenolrf.com/library/download/link/link_id/595611/parent/152119/
+SMC Female Through-hole Vertical
+0
+5
+2
+lsf-kicad-lib
+SO-8FL
+SO-8FL
+SO-8FL
+0
+9
+5
+lsf-kicad-lib
+SOIC-8_3.9x4.9mm_Pitch1.27mm_HandSoldering
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+lsf-kicad-lib
+SRP1270
+Bourns SRP1270
+Bourns SRP1270 L
+0
+2
+2
+lsf-kicad-lib
+SW_SPST_SPVN110107
+https://www.alps.com/prod/info/E/HTML/Switch/Detector/SPVN/SPVN110107.html
+switch smd spst
+0
+4
+2
+lsf-kicad-lib
+Skyworks_SKY66294-11_QFN-16-1EP_5x5mm_P0.8mm_EP2.875x2.875mm
+Skyworks SKY66294-11 QFN, 16 Pin (https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/2601-2700/SKY66294_11_203285E.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Skyworks QFN NoLead
+0
+26
+17
+lsf-kicad-lib
+Skyworks_SKY66294-11_QFN-16-1EP_5x5mm_P0.8mm_EP2.875x2.875mm_ThermalVias
+Skyworks SKY66294-11 QFN, 16 Pin (https://www.skyworksinc.com/-/media/SkyWorks/Documents/Products/2601-2700/SKY66294_11_203285E.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Skyworks QFN NoLead
+0
+52
+17
+lsf-kicad-lib
+TDFN-14-1EP_3x3mm_P0.4mm_EP1.7x2.3mm
+TDFN, 14 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+19
+15
+lsf-kicad-lib
+TDFN-14-1EP_3x3mm_P0.4mm_EP1.7x2.3mm_ThermalVias
+TDFN, 14 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+26
+15
+lsf-kicad-lib
+TDK-DEA142450BT-3028A1
+TDK;https://product.tdk.com/info/en/documents/data_sheet/rf_bpf_dea142450bt-3028a1_en.pdf
+TDK
+0
+5
+5
+lsf-kicad-lib
+TG2016SMN
+https://www5.epsondevice.com/en/products/tcxo/tg2016smn.html
+TCXO VCTCXO
+0
+4
+4
+lsf-kicad-lib
+TST-DCC6
+https://www.taisaw.com/upload/product/TA0700B%20_Rev.1.0_.pdf
+SAW Filter
+0
+6
+6
+lsf-kicad-lib
+TestPoint_D0.8mm_Mask-Only
+Testpoint mask only diameter 0.8mm
+Testpoint Maskonly
+0
+1
+1
+lsf-kicad-lib
+Texas-VSON-7-HR
+http://www.ti.com/lit/ds/symlink/tps62085.pdf
+VSON
+0
+13
+7
+lsf-kicad-lib
+Texas_DSBGA-6_0.7x1.1mm_Layout2x3_P0.4mm
+Texas Instruments, DSBGA, 0.7x1.1mm, 6 bump 2x3 (perimeter) array, NSMD pad definition (https://www.ti.com/lit/ds/symlink/tps22950.pdf)
+Texas Instruments DSBGA BGA YBH0006-C02
+0
+12
+6
+lsf-kicad-lib
+Texas_RGX0011A
+Texas VQFN RGX0011A
+VQFN
+0
+20
+11
+lsf-kicad-lib
+Texas_VQFN-10-HR_2x2_Pitch0.5mm
+https://www.ti.com/lit/ds/symlink/tps62913.pdf
+VQFN
+0
+10
+10
+lsf-kicad-lib
+VQFN-15_2.5x3_Pitch0.5mm
+http://www.ti.com/lit/ds/symlink/tps63070.pdf
+VQFN
+0
+23
+13
+lsf-kicad-lib
+gmr7580-25p
+https://cdn.glenair.com/micro-d/pdf/c/gmr7580.pdf
+Connector
+0
+27
+25
+lsf-kicad-lib
+hrs-df11-4dp-2ds
+https://www.hirose.com/product/en/download_file/key_name/DF11-4DP-2DS%2824%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430533124&is_series=
+Header
+0
+4
+4
+lsf-kicad-lib
+hrs-df11-4dp-2dsa
+https://www.hirose.com/product/en/download_file/key_name/DF11-4DP-2DSA%2801%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430517501&is_series=
+Header
+0
+4
+4
+lsf-kicad-lib
+hrs-df11-6dp-2ds
+https://www.hirose.com/product/en/download_file/key_name/DF11-6DP-2DS%2824%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430534424&is_series=
+Header
+0
+6
+6
+lsf-kicad-lib
+hrs-df11-6dp-2dsa
+https://www.hirose.com/product/en/download_file/key_name/DF11-6DP-2DSA%2824%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430518824&is_series=
+Header
+0
+6
+6
+lsf-kicad-lib
+hrs-df11-8dp-2dsa
+https://www.hirose.com/product/en/download_file/key_name/DF11-8DP-2DSA%2824%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430519024&is_series=
+Header
+0
+8
+8
+lsf-kicad-lib
+hrs-df11-10dp-2dsa
+https://www.hirose.com/product/en/download_file/key_name/DF11-10DP-2DSA%2801%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430520001&is_series=
+Hirose
+0
+10
+10
+lsf-kicad-lib
+hrs-df11c-4dp-2v
+https://www.hirose.com/product/en/download_file/key_name/DF11C-4DP-2V%2857%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430682157&is_series=
+Header DF11
+0
+6
+4
+lsf-kicad-lib
+hrs-df11c-10dp-2v
+https://www.hirose.com/product/en/download_file/key_name/DF11C-10DP-2V%2857%29/category/Catalog/doc_file_id/31688/?file_category_id=5&item_id=05430685057&is_series=
+Header
+0
+12
+10
+lsf-kicad-lib
+hrs-df40c-40ds-0.4v
+https://www.hirose.com/product/en/download_file/key_name/DF40C-40DS-0.4V%2851%29/category/Catalog/doc_file_id/31649/?file_category_id=5&item_id=06844008751&is_series=
+Receptacle
+0
+40
+40
+lsf-kicad-lib
+hrs-df40c-70ds-0.4v
+https://www.hirose.com/product/en/download_file/key_name/DF40C-70DS-0.4V%2851%29/category/Catalog/doc_file_id/31649/?file_category_id=5&item_id=06844016551&is_series=
+Receptacle
+0
+70
+70
+lsf-kicad-lib
+hrs-dm3cs
+https://www.hirose.com/product/en/download_file/key_name/DM3CS-SF/category/Specification%20Sheet/doc_file_id/44102/?file_category_id=9&item_id=06090032300&is_series=
+microSD
+0
+13
+8
+lsf-kicad-lib
+hrs-fx8c-60p-sv
+https://www.hirose.com/product/en/download_file/key_name/FX8C-60P-SV%2893%29/category/Catalog/doc_file_id/31612/?file_category_id=5&item_id=05780501993&is_series=
+Plug
+0
+60
+60
+lsf-kicad-lib
+hrs-fx8c-60s-sv
+https://www.hirose.com/product/en/download_file/key_name/FX8C-60S-SV%2892%29/category/Catalog/doc_file_id/31612/?file_category_id=5&item_id=05780801292&is_series=
+Receptable
+0
+60
+60
+lsf-kicad-lib
+lsf-logo-10x6
+Libre Space Foundation logo 10x6mm
+lsf logo libre space foundation
+0
+0
+0
+lsf-kicad-lib
+lsf-logo-20x11
+Libre Space Foundation logo 20x11mm
+lsf logo libre space foundation
+0
+0
+0
+lsf-kicad-lib
+lsf-logo-29x16
+Libre Space Foundation logo 29x16mm
+lsf logo libre space foundation
+0
+0
+0
+lsf-kicad-lib
+lsf-logo-full-10x10
+Libre Space Foundation full logo 10x10mm
+logo lsf libre space foundation
+0
+0
+0
+lsf-kicad-lib
+lsf-logo-full-19x19
+Libre Space Foundation full logo 19x19mm
+lsf libre space foundation logo
+0
+0
+0
+lsf-kicad-lib
+lsf-logo-full-29x29
+Libre Space Foundation full logo 29x29mm
+lsf libre space foundation logo
+0
+0
+0
+lsf-kicad-lib
+mmcx_conn
+-
+MMCX SMD V
+0
+5
+2
+lsf-kicad-lib
+murata-dzb4-b
+-
+Murata Inductor
+0
+2
+2
+lsf-kicad-lib
+renata-smtm1632
+https://www.renatabatteries.us/sites/default/files/2018-02/SMTM1632.pdf
+Battery Holder
+0
+3
+2
+lsf-kicad-lib
+satnogs-logo-22x4
+
+
+0
+0
+0
+lsf-kicad-lib
+sidloc-logo-11x3
+SIDLOC Logo
+
+0
+0
+0
+lsf-kicad-lib
+taoglas-cggp.18.2.a.02
+https://cdn.taoglas.com/datasheets/CGGP.18.2.A.02.pdf
+GPS Dual-Band Patch Antenna
+0
+1
+1
+lsf-kicad-lib
+taoglas-gp.1575.35.3.a.02
+https://cdn.taoglas.com/datasheets/GP.1575.35.3.A.02.pdf
+GPS Patch Antenna
+0
+1
+1

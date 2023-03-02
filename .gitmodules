@@ -1,0 +1,3 @@
+[submodule "lsf-kicad-lib"]
+	path = lsf-kicad-lib
+	url = https://gitlab.com/librespacefoundation/lsf-kicad-lib.git
