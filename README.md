@@ -3,7 +3,7 @@
 This PCB is the RF subsystem of the STS1 COBC ("Communication and On Board Computer") isolated on a separate PCB to test the RF subsystem.  
 The complete RF path was simulated using QUCS (see [the STS1_RF_Simulations repo](https://github.com/SpaceTeam/STS1_RF_Simulations) for the files).
 
-It is based around the Si4463 RF IC and features an LNA, 2W power amplifier and filtering built for our CubeSat and is designed for a frequency aroudn 435MHz.
+It is based around the Si4463 RF IC and features an LNA, 2W power amplifier and filtering built for our CubeSat and is designed for a frequency around 435MHz.
 
 Feel free to use this for whatever you want but there are two important things to consider:
 - 2W is way more than legal without some form of license in most countries so make sure that whatever you are planning to do is legal in your country.
