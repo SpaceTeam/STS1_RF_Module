@@ -55,7 +55,23 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|100475000|82525000|3ca5425b-afe6-405b-ab3c-7c40c0e99e63|4bba0a2c-08ea-48a3-8403-585d203c583c",
+        "clearance|101075000|81675000|287ee71b-8c7e-43d8-9bf9-a08b70efa85a|4bba0a2c-08ea-48a3-8403-585d203c583c",
+        "clearance|101075000|83125000|96241129-1f1e-4103-8a52-d77d0f215a3d|4bba0a2c-08ea-48a3-8403-585d203c583c",
+        "clearance|101925000|81952500|16b732e1-262e-4299-83e4-281a96417b40|4bba0a2c-08ea-48a3-8403-585d203c583c",
+        "clearance|101925000|82275000|0402673b-4410-463e-8f8c-664c979d7fdc|4bba0a2c-08ea-48a3-8403-585d203c583c",
+        "clearance|101925000|82847500|78b3752d-fd07-40ab-ba88-ddf89934e144|4bba0a2c-08ea-48a3-8403-585d203c583c",
+        "clearance|116134600|83150000|57eb4963-9869-40ec-b09a-97d9a8790adb|01098bee-155a-4b4e-ad36-529dfbc5ddc1",
+        "clearance|116314600|80410000|906cff5b-2d99-4df8-a554-2f70d4d89ff2|01dc2094-7238-4001-9d48-6df33632287f",
+        "clearance|116784600|83150000|01098bee-155a-4b4e-ad36-529dfbc5ddc1|4a7ab6ef-8d9e-4b79-b106-ba8516535de5",
+        "clearance|116964600|80410000|29bb2e06-39fd-4a14-a00a-95a7050b04f3|906cff5b-2d99-4df8-a554-2f70d4d89ff2",
+        "clearance|117434600|83150000|4a7ab6ef-8d9e-4b79-b106-ba8516535de5|a7896725-9054-4183-bed7-ffed53ae44bc",
+        "clearance|117614600|80410000|4450ee46-2511-4beb-896c-c47ee4b12e64|29bb2e06-39fd-4a14-a00a-95a7050b04f3",
+        "courtyards_overlap|106236549|80812622|5b9d3360-ff38-4a9d-bda7-8d8903623061|72639f75-c66c-42d8-a47b-6d94f17d427c",
+        "courtyards_overlap|106942910|82550001|72639f75-c66c-42d8-a47b-6d94f17d427c|9d7e962d-fc29-4229-902c-3b7caa50ed1d",
+        "courtyards_overlap|107020001|81112191|72639f75-c66c-42d8-a47b-6d94f17d427c|8a761b63-f080-4e98-a332-7406e0eae749"
+      ],
       "meta": {
         "version": 2
       },
@@ -110,7 +126,7 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
