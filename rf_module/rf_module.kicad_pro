@@ -348,7 +348,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -445,7 +445,7 @@
           "/UHF_PA/RF_Amp_Out"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(171, 0, 255)",
         "track_width": 0.3494,
         "via_diameter": 0.8,
         "via_drill": 0.4,
