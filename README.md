@@ -13,3 +13,10 @@ Feel free to use this for whatever you want but there are two important things t
   - The low pass filters most likely can stay the same if you don't drastically change the frequency
   - The band pass filters are stolen from [ORESAT0 C3](https://github.com/oresat/oresat-c3/) so you'll have to figure this out on your own :P
 - When using this in space, you'll want to add some form of watchdog to the `TX_Block` input and latch-up protection for at least the 3.3V rail (the power amplifier has it's own e-fuse on the 5V rail)
+
+## Current state
+
+### v1.0
+
+Currently untested!  
+The TX path excluding the RF switch were mostly tested before but the rest is untested.  
