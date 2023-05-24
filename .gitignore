@@ -8,3 +8,4 @@
 *.sch-bak
 **/*-backups/**
 **/#auto_saved_files#
+**/bom
